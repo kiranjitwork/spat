@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Veh_Positions>
+  <Vehicle ivehicleid="8944538500000627502">
+    <data label="12 D 20030" reg_number="12 D 20030" dtime="2012-07-13T12:37:35" flatt="53.315208" flong="-6.381301" heading="SW" speed="79.20" odometer="127733" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000627502" gps="3" speed_mph="79.20" odometer_mi="127733.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000627503">
+    <data label="05 D 53467" reg_number="05 D 53467" dtime="2012-07-12T18:42:32" flatt="53.282244" flong="-6.418043" heading="NW" speed="0.00" odometer="117553" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000627503" gps="3" speed_mph="0.00" odometer_mi="117553.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000627506">
+    <data label="12 D 5783" reg_number="12 D 5783" dtime="2012-07-13T10:59:51" flatt="53.322050" flong="-6.424924" heading="W " speed="1.30" odometer="142803" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000627506" gps="3" speed_mph="1.30" odometer_mi="142803.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000627514">
+    <data label="11 D 19058" reg_number="11 D 19058" dtime="2012-07-12T10:47:06" flatt="52.839059" flong="-7.391329" heading="E " speed="0.07" odometer="164270" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000627514" gps="3" speed_mph="0.07" odometer_mi="164270.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000627515">
+    <data label="11 D 36257" reg_number="11 D 36257" dtime="2012-07-13T12:38:13" flatt="52.543149" flong="-7.391130" heading="S " speed="0.29" odometer="186078" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000627515" gps="3" speed_mph="0.29" odometer_mi="186078.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646148">
+    <data label="defit_239543" reg_number="12 D 20067" dtime="2012-07-13T12:37:13" flatt="53.347189" flong="-6.386301" heading="S " speed="103.79" odometer="16143" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646148" gps="3" speed_mph="103.79" odometer_mi="16143.00" Driver="">
+      <pto dtime="2012-04-17T08:19:57" value="1.00000"/>
+      <pto dtime="2012-07-13T10:24:00" value="1.00000"/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646149">
+    <data label="08 L 1430" reg_number="08 L 1430" dtime="2012-07-13T12:37:59" flatt="53.266464" flong="-6.158414" heading="S " speed="25.67" odometer="24087" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646149" gps="3" speed_mph="25.67" odometer_mi="24087.00" Driver="">
+      <pto dtime="2012-01-26T12:20:30" value="0.00000"/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646150">
+    <data label="280 0861787217" reg_number="10 D 639" dtime="2012-07-13T11:37:03" flatt="53.331956" flong="-6.321812" heading="SW" speed="0.07" odometer="31599" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646150" gps="3" speed_mph="0.07" odometer_mi="31599.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646151">
+    <data label="08 D 46934" reg_number="08 D 46934" dtime="2012-07-12T18:25:22" flatt="53.276843" flong="-6.425079" heading="W " speed="0.40" odometer="26162" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646151" gps="3" speed_mph="0.40" odometer_mi="26162.00" Driver="">
+      <pto/>
+  </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646152">
+    <data label="05 D 53474" reg_number="05 D 53474" dtime="2012-07-13T11:50:39" flatt="53.282226" flong="-6.417704" heading="N " speed="1.19" odometer="12706" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646152" gps="3" speed_mph="1.19" odometer_mi="12706.00" Driver="">
+      <pto/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646153">
+    <data label="Spare Driver 0879120980" reg_number="08D 70186" dtime="2012-07-13T12:35:14" flatt="53.298329" flong="-6.477794" heading="N " speed="2.27" odometer="23265" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646153" gps="3" speed_mph="2.27" odometer_mi="23265.00" Driver="">
+      <pto dtime="2012-04-19T08:04:18" value="1.00000"/>
+      <pto dtime="2012-05-21T08:41:29" value="1.00000"/>
+    </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646154">
+     <data label="858-601 0852140534" reg_number="08D 43261" dtime="2012-07-13T11:42:05" flatt="53.274578" flong="-6.374638" heading="S " speed="0.40" odometer="42695" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646154" gps="3" speed_mph="0.40" odometer_mi="42695.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646155">
+     <data label="11 D 36254" reg_number="11 D 36254" dtime="2012-07-13T11:40:21" flatt="53.282051" flong="-6.417707" heading="NE" speed="1.37" odometer="32421" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646155" gps="3" speed_mph="1.37" odometer_mi="32421.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646156">
+     <data label="846-645 0879959151" reg_number="08D 69447" dtime="2012-07-10T14:06:58" flatt="53.357216" flong="-6.240599" heading="E " speed="0.29" odometer="32122" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646156" gps="3" speed_mph="0.29" odometer_mi="32122.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646157">
+     <data label="12 D 28890" reg_number="12 D 28890" dtime="2012-07-13T12:37:39" flatt="53.156074" flong="-6.917985" heading="N " speed="26.89" odometer="40510" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646157" gps="3" speed_mph="26.89" odometer_mi="40510.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646158">
+     <data label="890-620 0868571389" reg_number="10D 15921" dtime="2012-07-10T15:47:06" flatt="53.465505" flong="-6.220600" heading="NE" speed="0.29" odometer="13613" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646158" gps="3" speed_mph="0.29" odometer_mi="13613.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646159">
+     <data label="807-484 0873548776" reg_number="11D 36252" dtime="2012-07-13T12:04:41" flatt="53.336720" flong="-6.293490" heading="SE" speed="0.97" odometer="39573" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646159" gps="3" speed_mph="0.97" odometer_mi="39573.00" Driver="">
+       <pto dtime="2012-04-04T08:43:34" value="1.00000"/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646160">
+     <data label="838-407 0860774991" reg_number="08D 46029" dtime="2012-07-13T12:03:14" flatt="53.282202" flong="-6.417786" heading="S " speed="4.18" odometer="44385" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646160" gps="3" speed_mph="4.18" odometer_mi="44385.00" Driver="">
+       <pto dtime="2012-06-24T10:33:24" value="1.00000"/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646161">
+     <data label="Defit_238494" reg_number="07D 74857" dtime="2012-04-11T17:27:39" flatt="53.281961" flong="-6.418293" heading="W " speed="0.40" odometer="16972" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646161" gps="3" speed_mph="0.40" odometer_mi="16972.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646162">
+     <data label="830-401 0872936529" reg_number="12 D 20070" dtime="2012-07-13T12:37:11" flatt="52.752726" flong="-6.990704" heading="N " speed="110.70" odometer="38136" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646162" gps="3" speed_mph="110.70" odometer_mi="38136.00" Driver="">
+       <pto/>
+     </data>
+ </Vehicle>
+ <Vehicle ivehicleid="8944538500000646206">
+     <data label="813-635 0872936495 " reg_number="10D 645" dtime="2012-07-13T12:37:27" flatt="53.269865" flong="-6.299255" heading="NW" speed="88.60" odometer="20569" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646206" gps="3" speed_mph="88.60" odometer_mi="20569.00" Driver="">
+       <pto/>
+     </data>
+ </Vehicle>
+ <Vehicle ivehicleid="8944538500000646207">
+     <data label="12 D 28889" reg_number="12 D 28889" dtime="2012-07-13T12:30:44" flatt="53.294393" flong="-6.244523" heading="NE" speed="1.37" odometer="14984" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646207" gps="3" speed_mph="1.37" odometer_mi="14984.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646208">
+     <data label="836-602 0868064980" reg_number="08D 43247" dtime="2012-07-13T12:37:48" flatt="53.120826" flong="-6.073131" heading="E " speed="39.60" odometer="21046" event_type="Startup" event_code="122" driverid="0" vehicleid="8944538500000646208" gps="3" speed_mph="39.60" odometer_mi="21046.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646209">
+     <data label="852-650 0861292230" reg_number="06D 10228" dtime="2012-07-13T11:58:53" flatt="52.665360" flong="-8.618144" heading="NW" speed="0.29" odometer="18767" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646209" gps="3" speed_mph="0.29" odometer_mi="18767.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646210">
+     <data label="05D 82589" reg_number="05D 82589" dtime="2012-06-05T11:44:15" flatt="53.282108" flong="-6.418145" heading="S " speed="1.48" odometer="18380" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646210" gps="3" speed_mph="1.48" odometer_mi="18380.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646218">
+     <data label="12 D 28892 " reg_number="12 D 28892 " dtime="2012-07-13T11:50:27" flatt="53.282601" flong="-6.417779" heading="NE" speed="0.68" odometer="26127" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646218" gps="3" speed_mph="0.68" odometer_mi="26127.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646219">
+     <data label="08D 43251" reg_number="08D 43251" dtime="2012-07-13T12:37:35" flatt="53.282092" flong="-6.417959" heading="S " speed="0.79" odometer="35646" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646219" gps="3" speed_mph="0.79" odometer_mi="35646.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646220">
+     <data label="808-226 0872800906" reg_number="08D 69448" dtime="2012-07-13T12:38:11" flatt="53.335302" flong="-6.256039" heading="NW" speed="0.79" odometer="44643" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646220" gps="3" speed_mph="0.79" odometer_mi="44643.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646221">
+     <data label="04D 44035" reg_number="04D 44035" dtime="2012-06-01T10:40:04" flatt="53.280159" flong="-6.415499" heading="N " speed="0.07" odometer="3042" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646221" gps="3" speed_mph="0.07" odometer_mi="3042.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646222">
+     <data label="am spare 405-625 0857122045" reg_number="08D 39350" dtime="2012-07-13T12:09:49" flatt="53.281940" flong="-6.417868" heading="E " speed="0.40" odometer="24950" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646222" gps="3" speed_mph="0.40" odometer_mi="24950.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646223">
+     <data label="105 0876658773" reg_number="08D 43249" dtime="2012-07-13T11:11:00" flatt="53.281935" flong="-6.418061" heading="SE" speed="1.19" odometer="58768" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646223" gps="3" speed_mph="1.19" odometer_mi="58768.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646224">
+     <data label="810-811 606 0870546976" reg_number="10D 650" dtime="2012-07-13T12:08:51" flatt="53.394660" flong="-6.266198" heading="E " speed="0.00" odometer="26219" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646224" gps="3" speed_mph="0.00" odometer_mi="26219.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646226">
+     <data label="07D 73430" reg_number="07D 73430" dtime="2012-06-30T12:43:50" flatt="53.298008" flong="-6.478450" heading="N " speed="0.40" odometer="77" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000646226" gps="3" speed_mph="0.40" odometer_mi="77.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646227">
+     <data label="10D 642" reg_number="10D 642" dtime="2012-07-13T11:12:50" flatt="53.283625" flong="-6.425410" heading="N " speed="0.68" odometer="33819" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646227" gps="3" speed_mph="0.68" odometer_mi="33819.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000646912">
+     <data label="866-218-219 0872443853" reg_number="08D 12039" dtime="2012-07-13T12:24:14" flatt="53.282151" flong="-6.417767" heading="S " speed="0.47" odometer="50797" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000646912" gps="3" speed_mph="0.47" odometer_mi="50797.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647007">
+     <data label="104 - 0860807134" reg_number="09L 447" dtime="2012-07-13T12:37:28" flatt="52.330912" flong="-8.763122" heading="SW" speed="78.30" odometer="36727" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000647007" gps="3" speed_mph="78.30" odometer_mi="36727.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647029">
+     <data label="07D 68694" reg_number="07D 68694" dtime="2012-07-13T11:56:50" flatt="52.075605" flong="-8.382617" heading="W " speed="3.67" odometer="12986" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647029" gps="3" speed_mph="3.67" odometer_mi="12986.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647032">
+     <data label="923-502 0872394123" reg_number="09L 446" dtime="2012-07-13T12:37:08" flatt="52.059249" flong="-9.927801" heading="E " speed="64.80" odometer="37178" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000647032" gps="3" speed_mph="64.80" odometer_mi="37178.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647034">
+     <data label="828-425 0852899616" reg_number="11D 19055" dtime="2012-07-13T12:37:05" flatt="53.314903" flong="-6.382484" heading="SW" speed="90.00" odometer="18323" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000647034" gps="3" speed_mph="90.00" odometer_mi="18323.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647037">
+     <data label="07L 3118" reg_number="07L 3118" dtime="2012-07-13T10:32:37" flatt="53.282017" flong="-6.418138" heading="SW" speed="0.00" odometer="17570" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647037" gps="3" speed_mph="0.00" odometer_mi="17570.00" Driver="">
+       <pto dtime="2012-04-03T10:22:48" value="1.00000"/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647046">
+     <data label="am spare 407 0863498623" reg_number="09MO 1501" dtime="2012-07-13T12:09:27" flatt="53.281946" flong="-6.417892" heading="SW" speed="1.48" odometer="21291" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647046" gps="3" speed_mph="1.48" odometer_mi="21291.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647049">
+     <data label="12 D 28891" reg_number="12 D 28891" dtime="2012-07-13T12:37:17" flatt="53.190388" flong="-6.513463" heading="NE" speed="95.87" odometer="21632" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000647049" gps="3" speed_mph="95.87" odometer_mi="21632.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647053">
+     <data label="824-605 0876724128" reg_number="09MO 1500" dtime="2012-07-13T12:38:15" flatt="53.286770" flong="-6.360759" heading="NE" speed="1.69" odometer="29446" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000647053" gps="3" speed_mph="1.69" odometer_mi="29446.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647055">
+     <data label="09MO 890" reg_number="09MO 890" dtime="2012-07-12T17:40:20" flatt="53.446805" flong="-6.236688" heading="S " speed="0.07" odometer="14618" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647055" gps="3" speed_mph="0.07" odometer_mi="14618.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647062">
+     <data label="834-420 0861039558" reg_number="11MO 2223" dtime="2012-07-13T12:28:08" flatt="53.282174" flong="-6.418036" heading="SW" speed="0.18" odometer="20591" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647062" gps="3" speed_mph="0.18" odometer_mi="20591.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647068">
+     <data label="815-400 0871610676" reg_number="09L 254" dtime="2012-07-13T12:34:04" flatt="53.282156" flong="-6.418006" heading="W " speed="0.18" odometer="15474" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647068" gps="3" speed_mph="0.18" odometer_mi="15474.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647069">
+     <data label="820-625 0874108403" reg_number="08MO 4476" dtime="2012-07-12T13:00:47" flatt="53.379816" flong="-6.188937" heading="NW" speed="0.68" odometer="12815" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647069" gps="3" speed_mph="0.68" odometer_mi="12815.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647076">
+     <data label="am spare 630 0860609509" reg_number="11MO 1658" dtime="2012-07-13T12:37:03" flatt="53.366833" flong="-6.203999" heading="W " speed="0.47" odometer="20866" event_type="Startup" event_code="122" driverid="0" vehicleid="8944538500000647076" gps="3" speed_mph="0.47" odometer_mi="20866.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647081">
+     <data label="08L 706" reg_number="08L 706" dtime="2012-07-08T16:58:09" flatt="51.771371" flong="-8.458644" heading="E " speed="1.58" odometer="2351" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647081" gps="3" speed_mph="1.58" odometer_mi="2351.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647090">
+     <data label="842-843 405 0872474283" reg_number="11D 36253" dtime="2012-07-13T12:08:02" flatt="53.282021" flong="-6.417861" heading="W " speed="1.80" odometer="21344" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647090" gps="3" speed_mph="1.80" odometer_mi="21344.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647093">
+     <data label="602 - 0872394121" reg_number="08L 1062" dtime="2012-04-20T18:47:32" flatt="52.650571" flong="-8.617105" heading="S " speed="0.18" odometer="10862" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647093" gps="3" speed_mph="0.18" odometer_mi="10862.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647095">
+     <data label="910 - 0879216888" reg_number="11L 896" dtime="2012-07-13T11:45:47" flatt="51.923004" flong="-8.487440" heading="SE" speed="0.00" odometer="25518" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647095" gps="3" speed_mph="0.00" odometer_mi="25518.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647146">
+     <data label="887-430 0876875856" reg_number="07D 12816" dtime="2012-07-13T10:54:59" flatt="53.323248" flong="-6.301042" heading="SE" speed="0.18" odometer="13150" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647146" gps="3" speed_mph="0.18" odometer_mi="13150.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647150">
+     <data label="am spare 240-241 - 0876689759" reg_number="08MO 3192" dtime="2012-07-12T08:32:03" flatt="53.282007" flong="-6.418164" heading="NW" speed="2.38" odometer="677" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647150" gps="3" speed_mph="2.38" odometer_mi="677.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000647151">
+     <data label="899-286 0866017167" reg_number="10D 18004" dtime="2012-07-13T11:46:54" flatt="53.281920" flong="-6.417745" heading="E " speed="0.40" odometer="13547" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000647151" gps="3" speed_mph="0.40" odometer_mi="13547.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648378">
+     <data label="235-236 0863182553" reg_number="11MO 1656" dtime="2012-07-13T12:19:55" flatt="53.281928" flong="-6.417836" heading="NE" speed="0.00" odometer="31048" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000648378" gps="3" speed_mph="0.00" odometer_mi="31048.00" Driver="">
+       <pto/>
+     </data>     
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648391">
+     <data label="869-403 0876342701" reg_number="11MO 1657" dtime="2012-07-13T12:38:01" flatt="53.282038" flong="-6.418016" heading="E " speed="0.29" odometer="18264" event_type="Idling start" event_code="143" driverid="0" vehicleid="8944538500000648391" gps="3" speed_mph="0.29" odometer_mi="18264.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648397">
+     <data label="908 - 087279525" reg_number="11L 894" dtime="2012-07-13T11:53:20" flatt="51.866755" flong="-8.400306" heading="N " speed="0.00" odometer="28219" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000648397" gps="3" speed_mph="0.00" odometer_mi="28219.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648398">
+     <data label="950 - 0879719048" reg_number="09L 251" dtime="2012-07-13T11:09:16" flatt="51.907315" flong="-8.365550" heading="W " speed="0.00" odometer="23619" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000648398" gps="3" speed_mph="0.00" odometer_mi="23619.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648399">
+     <data label="906 - 0868105458" reg_number="07C 6170" dtime="2012-07-13T12:11:23" flatt="51.905477" flong="-8.459765" heading="NE" speed="0.07" odometer="16267" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000648399" gps="3" speed_mph="0.07" odometer_mi="16267.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648400">
+     <data label="904 - 0872029424" reg_number="11L 895" dtime="2012-04-26T09:20:22" flatt="51.884027" flong="-8.488083" heading="S " speed="0.00" odometer="4722" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000648400" gps="3" speed_mph="0.00" odometer_mi="4722.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648401">
+     <data label="916 - 0872394126" reg_number="09L 567" dtime="2012-07-13T12:37:08" flatt="52.668430" flong="-8.621731" heading="NE" speed="32.87" odometer="37377" event_type="Position" event_code="1" driverid="0" vehicleid="8944538500000648401" gps="3" speed_mph="32.87" odometer_mi="37377.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+  <Vehicle ivehicleid="8944538500000648402">
+     <data label="08L 1003" reg_number="08L 1003" dtime="2012-07-13T12:02:38" flatt="52.650675" flong="-8.617093" heading="S " speed="0.00" odometer="38850" event_type="Shutdown" event_code="202" driverid="0" vehicleid="8944538500000648402" gps="3" speed_mph="0.00" odometer_mi="38850.00" Driver="">
+       <pto/>
+     </data>
+  </Vehicle>
+</Veh_Positions>
